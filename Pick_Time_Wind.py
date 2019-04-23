@@ -47,9 +47,7 @@ def get_window(event):
 
 #~~~~~~ I've changed the code so it can now read in sac files without this coordinates nonesense ~~~~~~#
 
-
-
-	# make list of list of all the phase predicted times.
+# make list of list of all the phase predicted times.
 time_header_times = [[] for i in range(9)]
 
 Target_time_header = None
