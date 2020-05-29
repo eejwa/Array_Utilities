@@ -8,10 +8,10 @@ Useful scripts for manipulating SAC data for an array:
   - Replace_Data_Synthetic.py - replaces data with a ricker wave at the predicted phase arrival time in each trace.
   
 Requires:
-  obspy
-  numpy
-  scipy
-  argparse
-  shutil
-  glob
+  - obspy
+  - numpy
+  - scipy
+  - argparse
+  - shutil
+  - glob
   
